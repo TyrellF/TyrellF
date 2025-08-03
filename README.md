@@ -1,4 +1,5 @@
-# 💫 About Me:
+## 👋 Hey there, I'm Tyrell Fernandes
+
 I'm a Software Engineer passionate about building web applications that are clean, efficient, and user-focused. I work primarily with **TypeScript**, **React**, **Next.js**, and **Node.js**, and I've also done quite a bit of work with **MySQL**, **Power BI**, and cloud platforms like **GCP** and **Azure**.<br><br>💼 What I Do<br>- Build fullstack apps using React/Next.js on the frontend and Node.js on the backend<br>- Develop and maintain cloud functions and backend services on GCP and Azure<br>- Work on dashboards (Power BI) that simplify cloud cost visibility and product health<br>- Explore and implement custom Power BI visuals when the defaults don’t cut it<br>- Automate data syncs, alerts, and usage reports for internal platforms<br>- Clean up legacy codebases and refactor them into something readable and reliable
 
 
